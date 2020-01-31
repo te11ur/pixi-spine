@@ -91,15 +91,11 @@ export class Spine extends Container {
 
         /**
          * The spineData object
-         *
-         * @member {object}
          */
         this.spineData = spineData;
 
         /**
          * A spine Skeleton object
-         *
-         * @member {object}
          */
         this.skeleton = new Skeleton(spineData);
         this.skeleton.updateWorldTransform();
@@ -113,8 +109,6 @@ export class Spine extends Container {
 
         /**
          * A spine AnimationState object created from the spine AnimationStateData object
-         *
-         * @member {object}
          */
         this.state = new AnimationState(this.stateData);
 

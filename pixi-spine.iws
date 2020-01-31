@@ -2,56 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc540402-d2cb-448a-a1f0-4529d38f0784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webpack.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi-spine.iws" beforeDir="false" afterPath="$PROJECT_DIR$/pixi-spine.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pixi.js/packages/app/src/ResizePlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/app/src/ResizePlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spine.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Animation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Animation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/AnimationState.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/AnimationState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/AnimationStateData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/AnimationStateData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/AtlasAttachmentLoader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/AtlasAttachmentLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/BlendMode.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/BlendMode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Bone.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Bone.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/BoneData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/BoneData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Constraint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Constraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Event.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Event.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/EventData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/EventData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/IkConstraint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/IkConstraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/IkConstraintData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/IkConstraintData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/PathConstraint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/PathConstraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/PathConstraintData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/PathConstraintData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Skeleton.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Skeleton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SkeletonBinary.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonBinary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SkeletonBounds.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonBounds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SkeletonClipping.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonClipping.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SkeletonData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SkeletonJson.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonJson.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Skin.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Skin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Slot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Slot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SlotData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SlotData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Texture.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Texture.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/TextureAtlas.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/TextureAtlas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/TransformConstraint.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/TransformConstraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/TransformConstraintData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/TransformConstraintData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Triangulator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Triangulator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Updatable.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Updatable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/VertexEffect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/VertexEffect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/Attachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/Attachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/AttachmentLoader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/AttachmentLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/AttachmentType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/AttachmentType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/BoundingBoxAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/BoundingBoxAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/ClippingAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/ClippingAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/MeshAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/MeshAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/PathAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/PathAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/PointAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/PointAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/attachments/RegionAttachment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/attachments/RegionAttachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/vertexeffects/JitterEffect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/vertexeffects/JitterEffect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/vertexeffects/SwirlEffect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/vertexeffects/SwirlEffect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exporter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/exporter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaders.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/loaders.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/polyfills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/core/src/state/State.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/core/src/state/State.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/core/src/textures/Texture.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/core/src/textures/Texture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/core/src/textures/TextureMatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/core/src/textures/TextureMatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/display/src/Container.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/display/src/Container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/display/src/DisplayObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/display/src/DisplayObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/Graphics.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/Graphics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/GraphicsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/GraphicsData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/GraphicsGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/GraphicsGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/styles/FillStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/styles/FillStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/styles/LineStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/styles/LineStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/ArcUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/ArcUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/BatchPart.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/BatchPart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/buildCircle.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/graphics/src/utils/buildCircle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionData.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionEvent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionTrackingData.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/interaction/src/InteractionTrackingData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/interaction/src/interactiveTarget.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/interaction/src/interactiveTarget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/math/src/Matrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/math/src/Matrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/math/src/Point.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/math/src/Point.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/math/src/Transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/math/src/Transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/NineSlicePlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/NineSlicePlane.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimpleMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimpleMesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimplePlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimplePlane.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimpleRope.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/SimpleRope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/geometry/RopeGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh-extras/src/geometry/RopeGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh/src/Mesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh/src/Mesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mesh/src/MeshMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mesh/src/MeshMaterial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/mixin-get-global-position/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/mixin-get-global-position/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/particles/src/ParticleContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/particles/src/ParticleContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/text-bitmap/src/BitmapText.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/text-bitmap/src/BitmapText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixi.js/packages/ticker/src/Ticker.js" beforeDir="false" afterPath="$PROJECT_DIR$/pixi.js/packages/ticker/src/Ticker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/SkeletonBinary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SkeletonBinary.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +59,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -116,6 +103,7 @@
       <workItem from="1574255146949" duration="66000" />
       <workItem from="1574339526381" duration="7794000" />
       <workItem from="1574932294154" duration="654000" />
+      <workItem from="1580460861104" duration="347000" />
     </task>
     <servers />
   </component>

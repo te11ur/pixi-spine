@@ -39,13 +39,15 @@ import {Event} from "./Event";
 import {AttachmentType} from "./attachments/AttachmentType";
 import {
     Animation,
-    AttachmentTimeline, ColorTimeline, DrawOrderTimeline, EventTimeline,
+    AttachmentTimeline, ColorTimeline, DeformTimeline, DrawOrderTimeline, EventTimeline,
     IkConstraintTimeline, PathConstraintMixTimeline, PathConstraintSpacingTimeline,
-    RotateTimeline,
-    TransformConstraintTimeline,
+    RotateTimeline, ScaleTimeline, ShearTimeline,
+    TransformConstraintTimeline, TranslateTimeline,
     TwoColorTimeline
 } from "./Animation";
 import {Color, Utils} from "./Utils";
+import {SlotData} from "./SlotData";
+import {Skin} from "./Skin";
 
 export class SkeletonBinary {
     static AttachmentTypeValues = [0 /*AttachmentType.Region*/, 1/*AttachmentType.BoundingBox*/, 2/*AttachmentType.Mesh*/, 3/*AttachmentType.LinkedMesh*/, 4/*AttachmentType.Path*/, 5/*AttachmentType.Point*/, 6/*AttachmentType.Clipping*/];
