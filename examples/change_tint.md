@@ -9,7 +9,7 @@ Attachment is the same for all models and specific attachment.
 Slot defines per model per attachment
 
 ```js
-var spineData = loader.resources['spineBoy'].data;
+var spineData = loader_car.resources['spineBoy'].data;
 
 //TINT_SLOT default value for new ones
 spineData.findSlot('legSlot').data.color.b = 0.9; 

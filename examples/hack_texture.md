@@ -2,9 +2,9 @@
 
 ```js
 //let 'spine' be Spine object
-var spine = new PIXI.spine.Spine(loader.resources['spineBoy'].data);
+var spine = new PIXI.spine.Spine(loader_car.resources['spineBoy'].data);
 //let myTexture be the texture you are assigning. it can be something from the spritesheet
-var myTexture = loader.resources['newRegionTexture'].texture;
+var myTexture = loader_car.resources['newRegionTexture'].texture;
 
 spine.hackTextureBySlotName('head', myTexture);
 

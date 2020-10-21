@@ -50,12 +50,47 @@ import {SlotData} from "./SlotData";
 import {Skin} from "./Skin";
 
 export class SkeletonBinary {
-    static AttachmentTypeValues = [0 /*AttachmentType.Region*/, 1/*AttachmentType.BoundingBox*/, 2/*AttachmentType.Mesh*/, 3/*AttachmentType.LinkedMesh*/, 4/*AttachmentType.Path*/, 5/*AttachmentType.Point*/, 6/*AttachmentType.Clipping*/];
-    static TransformModeValues = [TransformMode.Normal, TransformMode.OnlyTranslation, TransformMode.NoRotationOrReflection, TransformMode.NoScale, TransformMode.NoScaleOrReflection];
-    static PositionModeValues = [PositionMode.Fixed, PositionMode.Percent];
-    static SpacingModeValues = [SpacingMode.Length, SpacingMode.Fixed, SpacingMode.Percent];
-    static RotateModeValues = [RotateMode.Tangent, RotateMode.Chain, RotateMode.ChainScale];
-    static BlendModeValues = [BlendMode.Normal, BlendMode.Additive, BlendMode.Multiply, BlendMode.Screen];
+    static AttachmentTypeValues = [
+        AttachmentType.Region,
+        AttachmentType.BoundingBox,
+        AttachmentType.Mesh,
+        AttachmentType.LinkedMesh,
+        AttachmentType.Path,
+        AttachmentType.Point,
+        AttachmentType.Clipping
+    ];
+
+    static TransformModeValues = [
+        TransformMode.Normal,
+        TransformMode.OnlyTranslation,
+        TransformMode.NoRotationOrReflection,
+        TransformMode.NoScale,
+        TransformMode.NoScaleOrReflection
+    ];
+
+    static PositionModeValues = [
+        PositionMode.Fixed,
+        PositionMode.Percent
+    ];
+
+    static SpacingModeValues = [
+        SpacingMode.Length,
+        SpacingMode.Fixed,
+        SpacingMode.Percent
+    ];
+
+    static RotateModeValues = [
+        RotateMode.Tangent,
+        RotateMode.Chain,
+        RotateMode.ChainScale
+    ];
+
+    static BlendModeValues = [
+        BlendMode.Normal,
+        BlendMode.Additive,
+        BlendMode.Multiply,
+        BlendMode.Screen
+    ];
 
     static BONE_ROTATE = 0;
     static BONE_TRANSLATE = 1;

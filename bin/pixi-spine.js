@@ -6176,7 +6176,7 @@ var pixi_spine;
             };
             return Skin;
         }());
-        core.Skin = Skin;
+        core.SkinState = Skin;
     })(core = pixi_spine.core || (pixi_spine.core = {}));
 })(pixi_spine || (pixi_spine = {}));
 var pixi_spine;
